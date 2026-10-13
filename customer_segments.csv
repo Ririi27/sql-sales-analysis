@@ -1,0 +1,5 @@
+segment,customers,revenue,pct_of_revenue
+Top 25%,125,9803648.0,39.1
+Upper-mid,125,7068842.0,28.2
+Lower-mid,125,5154675.0,20.5
+Bottom 25%,125,3076907.0,12.3

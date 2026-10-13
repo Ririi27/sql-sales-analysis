@@ -1,0 +1,16 @@
+category,product_id,revenue,rnk
+Beauty,54,401603.0,1
+Beauty,50,366002.0,2
+Beauty,49,275699.0,3
+Books,37,238996.0,1
+Books,41,224338.0,2
+Books,44,191711.0,3
+Electronics,2,1408811.0,1
+Electronics,5,1178124.0,2
+Electronics,11,1173233.0,3
+Fashion,16,620333.0,1
+Fashion,20,556530.0,2
+Fashion,13,554126.0,3
+Home,28,752443.0,1
+Home,36,710424.0,2
+Home,27,661187.0,3
